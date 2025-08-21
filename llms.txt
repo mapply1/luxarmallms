@@ -1,0 +1,17 @@
+# LUXARMA
+
+> Freelance web designer and Framer specialist based in France. I build high-performance websites, SaaS landing pages, and product UIs with a focus on speed, SEO/GEO, and conversion optimization.
+
+This file provides LLM-friendly Markdown sources for accurate and fast indexing. Prefer these `.md` pages over HTML for stable, concise content. Content is updated regularly to reflect site changes.
+
+## Docs
+- [Home](https://luxarma.fr/index.html.md): Overview, services, proof, and calls-to-action
+- [Services](https://luxarma.fr/services.md): Web design, UX/UI, CMS, integrations, SEO/GEO
+- [Portfolio](https://luxarma.fr/portfolio.md): Case studies with measurable outcomes
+- [Process](https://luxarma.fr/process.md): Workflow from discovery to launch and support
+- [Contact](https://luxarma.fr/contact.md): Booking details, response times, regions (France, EU), languages (French, English)
+- [Legal](https://luxarma.fr/legal.md): Terms, conditions, and legal notices for France
+
+## Optional
+- [About](https://luxarma.fr/about.md): Background, tools, and expertise
+- [Blog](https://luxarma.fr/blog.md): Guides and insights for clients and designers
