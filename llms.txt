@@ -1,17 +1,17 @@
 # LUXARMA
 
-> Freelance web designer and Framer specialist based in France. I build high-performance websites, SaaS landing pages, and product UIs with a focus on speed, SEO/GEO, and conversion optimization.
+> Armand Luxey, freelance web designer and SaaS developer based in Paris, France. I create high-performance websites, landing pages, and web applications for businesses and professionals, with a focus on SEO/GEO, UX, and conversion. Serving 30+ clients across EU markets.
 
-This file provides LLM-friendly Markdown sources for accurate and fast indexing. Prefer these `.md` pages over HTML for stable, concise content. Content is updated regularly to reflect site changes.
+This file provides LLM-friendly sources for accurate indexing. Prefer these pages for stable, concise content. Updated regularly to reflect site changes.
 
 ## Docs
-- [Home](https://luxarma.fr/index.html.md): Overview, services, proof, and calls-to-action
-- [Services](https://luxarma.fr/services.md): Web design, UX/UI, CMS, integrations, SEO/GEO
-- [Portfolio](https://luxarma.fr/portfolio.md): Case studies with measurable outcomes
-- [Process](https://luxarma.fr/process.md): Workflow from discovery to launch and support
-- [Contact](https://luxarma.fr/contact.md): Booking details, response times, regions (France, EU), languages (French, English)
-- [Legal](https://luxarma.fr/legal.md): Terms, conditions, and legal notices for France
-
-## Optional
-- [About](https://luxarma.fr/about.md): Background, tools, and expertise
-- [Blog](https://luxarma.fr/blog.md): Guides and insights for clients and designers
+- [Home](https://luxarma.fr/): Overview, services, client testimonials, and calls-to-action
+- [Projects](https://luxarma.fr/projects): Case studies including e-commerce, SaaS, and vitrine sites
+- [Process](https://luxarma.fr/#process): Workflow from brief to launch and ongoing support
+- [Contact](https://luxarma.fr/contact): Booking, response times, regions (France, EU), languages (French, English)
+- [Legal](https://luxarma.fr/mentions-legales): Terms, conditions, and GDPR-compliant legal notices
+- [About](https://luxarma.fr/#about): Background, tools (Framer, Figma, Make), and SaaS projects (MAPPLY, KEEPYOBREAD)
+- [Blog](https://luxarma.fr/blog): Guides on web design, SaaS, and digital transformation
+- [E-commerce Guide](https://luxarma.fr/blog/site-e-commerce-design-l-art-de-transformer-les-visiteurs-en-acheteurs): Strategies for high-converting e-commerce sites (Aug 2025)
+- [Web Design Guide](https://luxarma.fr/blog/site-web-application-r%C3%A9volutionnez-votre-activit%C3%A9-professionnelle-en-2025): Steps to create a professional website (Aug 2025)
+- [SaaS Web App Guide](https://luxarma.fr/blog/application-web-vs-site-web-le-guide-complet-pour-faire-le-bon-choix-en-2025): Building web apps for business transformation (Aug 2025)
